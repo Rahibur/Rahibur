@@ -10,15 +10,15 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Rahibur?tab=repositories](https://github.com/Rahibur?tab=repositories)
 
-- 📝 I regularly write articles on [https://sites.google.com/view/rahibs-notes/home](https://sites.google.com/view/rahibs-notes/home)
+- 📝 My personal portfolio site :  [https://sites.google.com/view/rahib-rahman](https://sites.google.com/view/rahib-rahman)
 
-- 💬 We can discuss about **Mongodb,Reactjs,Expressjs,Nodejs**
+- 💬 We can discuss about **Software testing, MongoDB, Reactjs ,Expressjs ,Nodejs**
 
 - 📫 How to reach me **ttrahib00@gmail.com**
 
 - 📝My linkedin link [https://www.linkedin.com/in/rahibur-rahman-2158a4241/](https://www.linkedin.com/in/rahibur-rahman-2158a4241/)
 
-- ⚡ Fun fact **I think i am a hard worker**
+- ⚡ Fun fact **I think I am a hard worker**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
